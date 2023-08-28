@@ -1,0 +1,601 @@
+,year,name,age_group,sex,Education Level,Information and communication
+0,2015,Ghana,15-24,female,Less than basic_employed,450204.8575410942
+1,2016,Ghana,15-24,female,Less than basic_employed,
+2,2017,Ghana,15-24,female,Less than basic_employed,100684.2694427481
+3,2018,Ghana,15-24,female,Less than basic_employed,101774.28800746489
+4,2019,Ghana,15-24,female,Less than basic_employed,102858.1531091208
+5,2020,Ghana,15-24,female,Less than basic_employed,101467.318059249
+6,2021,Ghana,15-24,female,Less than basic_employed,104784.3461844236
+7,2022,Ghana,15-24,female,Less than basic_employed,107062.4870745938
+8,2023,Ghana,15-24,female,Less than basic_employed,108452.64805485072
+9,2024,Ghana,15-24,female,Less than basic_employed,110004.85479124772
+10,2015,Ghana,15-24,male,Less than basic_employed,431048.390543008
+11,2016,Ghana,15-24,male,Less than basic_employed,
+12,2017,Ghana,15-24,male,Less than basic_employed,79897.30768302377
+13,2018,Ghana,15-24,male,Less than basic_employed,80351.43807569637
+14,2019,Ghana,15-24,male,Less than basic_employed,80786.97147388202
+15,2020,Ghana,15-24,male,Less than basic_employed,80069.63385861123
+16,2021,Ghana,15-24,male,Less than basic_employed,82140.95755326
+17,2022,Ghana,15-24,male,Less than basic_employed,84458.52290272701
+18,2023,Ghana,15-24,male,Less than basic_employed,85627.30814864572
+19,2024,Ghana,15-24,male,Less than basic_employed,86915.81147483992
+20,2015,Ghana,25-35,female,Less than basic_employed,919606.5447334888
+21,2016,Ghana,25-35,female,Less than basic_employed,
+22,2017,Ghana,25-35,female,Less than basic_employed,550222.4926819708
+23,2018,Ghana,25-35,female,Less than basic_employed,560311.2129869875
+24,2019,Ghana,25-35,female,Less than basic_employed,570803.2321445975
+25,2020,Ghana,25-35,female,Less than basic_employed,575624.4898565323
+26,2021,Ghana,25-35,female,Less than basic_employed,587632.2855332438
+27,2022,Ghana,25-35,female,Less than basic_employed,601570.8310072672
+28,2023,Ghana,25-35,female,Less than basic_employed,610643.5404720933
+29,2024,Ghana,25-35,female,Less than basic_employed,619901.5326095151
+30,2015,Ghana,25-35,male,Less than basic_employed,686870.2008107225
+31,2016,Ghana,25-35,male,Less than basic_employed,
+32,2017,Ghana,25-35,male,Less than basic_employed,319675.8605609235
+33,2018,Ghana,25-35,male,Less than basic_employed,327544.68741198094
+34,2019,Ghana,25-35,male,Less than basic_employed,335571.3615568091
+35,2020,Ghana,25-35,male,Less than basic_employed,340460.6877815401
+36,2021,Ghana,25-35,male,Less than basic_employed,349190.41479715984
+37,2022,Ghana,25-35,male,Less than basic_employed,358234.8494239168
+38,2023,Ghana,25-35,male,Less than basic_employed,365495.2354713727
+39,2024,Ghana,25-35,male,Less than basic_employed,373103.399063324
+40,2015,Kenya,15-24,female,Less than basic_employed,
+41,2016,Kenya,15-24,female,Less than basic_employed,95568.32061630988
+42,2017,Kenya,15-24,female,Less than basic_employed,
+43,2018,Kenya,15-24,female,Less than basic_employed,
+44,2019,Kenya,15-24,female,Less than basic_employed,154784.3206445971
+45,2020,Kenya,15-24,female,Less than basic_employed,154541.65754349495
+46,2021,Kenya,15-24,female,Less than basic_employed,159188.22615876343
+47,2022,Kenya,15-24,female,Less than basic_employed,164346.75285631002
+48,2023,Kenya,15-24,female,Less than basic_employed,167971.00090739003
+49,2024,Kenya,15-24,female,Less than basic_employed,171475.74239633785
+50,2015,Kenya,15-24,male,Less than basic_employed,
+51,2016,Kenya,15-24,male,Less than basic_employed,88629.99959430499
+52,2017,Kenya,15-24,male,Less than basic_employed,
+53,2018,Kenya,15-24,male,Less than basic_employed,
+54,2019,Kenya,15-24,male,Less than basic_employed,240287.97332151848
+55,2020,Kenya,15-24,male,Less than basic_employed,241307.8876147372
+56,2021,Kenya,15-24,male,Less than basic_employed,247934.3022185568
+57,2022,Kenya,15-24,male,Less than basic_employed,258532.62290740127
+58,2023,Kenya,15-24,male,Less than basic_employed,265381.28626317333
+59,2024,Kenya,15-24,male,Less than basic_employed,271792.6475121708
+60,2015,Kenya,25-35,female,Less than basic_employed,
+61,2016,Kenya,25-35,female,Less than basic_employed,539573.0696792143
+62,2017,Kenya,25-35,female,Less than basic_employed,
+63,2018,Kenya,25-35,female,Less than basic_employed,
+64,2019,Kenya,25-35,female,Less than basic_employed,949749.6540621225
+65,2020,Kenya,25-35,female,Less than basic_employed,954956.8806381698
+66,2021,Kenya,25-35,female,Less than basic_employed,987841.158963826
+67,2022,Kenya,25-35,female,Less than basic_employed,1020751.295540654
+68,2023,Kenya,25-35,female,Less than basic_employed,1044831.2663497736
+69,2024,Kenya,25-35,female,Less than basic_employed,1067561.8655193497
+70,2015,Kenya,25-35,male,Less than basic_employed,
+71,2016,Kenya,25-35,male,Less than basic_employed,298753.8791714212
+72,2017,Kenya,25-35,male,Less than basic_employed,
+73,2018,Kenya,25-35,male,Less than basic_employed,
+74,2019,Kenya,25-35,male,Less than basic_employed,687195.9664793264
+75,2020,Kenya,25-35,male,Less than basic_employed,689528.7091987359
+76,2021,Kenya,25-35,male,Less than basic_employed,711942.2849742043
+77,2022,Kenya,25-35,male,Less than basic_employed,732794.26181954
+78,2023,Kenya,25-35,male,Less than basic_employed,749927.760303561
+79,2024,Kenya,25-35,male,Less than basic_employed,766845.8200393099
+80,2015,Rwanda,15-24,female,Less than basic_employed,
+81,2016,Rwanda,15-24,female,Less than basic_employed,
+82,2017,Rwanda,15-24,female,Less than basic_employed,10217.580938615469
+83,2018,Rwanda,15-24,female,Less than basic_employed,6863.68229114144
+84,2019,Rwanda,15-24,female,Less than basic_employed,6687.467672207244
+85,2020,Rwanda,15-24,female,Less than basic_employed,7642.508889032226
+86,2021,Rwanda,15-24,female,Less than basic_employed,5655.470551864875
+87,2022,Rwanda,15-24,female,Less than basic_employed,
+88,2023,Rwanda,15-24,female,Less than basic_employed,
+89,2024,Rwanda,15-24,female,Less than basic_employed,
+90,2015,Rwanda,15-24,male,Less than basic_employed,
+91,2016,Rwanda,15-24,male,Less than basic_employed,
+92,2017,Rwanda,15-24,male,Less than basic_employed,12001.661131921566
+93,2018,Rwanda,15-24,male,Less than basic_employed,8069.018576306261
+94,2019,Rwanda,15-24,male,Less than basic_employed,7465.8216981456035
+95,2020,Rwanda,15-24,male,Less than basic_employed,8567.440217776637
+96,2021,Rwanda,15-24,male,Less than basic_employed,16501.915733826543
+97,2022,Rwanda,15-24,male,Less than basic_employed,
+98,2023,Rwanda,15-24,male,Less than basic_employed,
+99,2024,Rwanda,15-24,male,Less than basic_employed,
+100,2015,Rwanda,25-35,female,Less than basic_employed,
+101,2016,Rwanda,25-35,female,Less than basic_employed,
+102,2017,Rwanda,25-35,female,Less than basic_employed,117174.58735671312
+103,2018,Rwanda,25-35,female,Less than basic_employed,96884.14012859049
+104,2019,Rwanda,25-35,female,Less than basic_employed,95371.7643256814
+105,2020,Rwanda,25-35,female,Less than basic_employed,95504.5917832612
+106,2021,Rwanda,25-35,female,Less than basic_employed,90035.02215643863
+107,2022,Rwanda,25-35,female,Less than basic_employed,
+108,2023,Rwanda,25-35,female,Less than basic_employed,
+109,2024,Rwanda,25-35,female,Less than basic_employed,
+110,2015,Rwanda,25-35,male,Less than basic_employed,
+111,2016,Rwanda,25-35,male,Less than basic_employed,
+112,2017,Rwanda,25-35,male,Less than basic_employed,96436.13476873696
+113,2018,Rwanda,25-35,male,Less than basic_employed,79857.09691958525
+114,2019,Rwanda,25-35,male,Less than basic_employed,73468.02463597494
+115,2020,Rwanda,25-35,male,Less than basic_employed,71131.56188562565
+116,2021,Rwanda,25-35,male,Less than basic_employed,72895.0570825191
+117,2022,Rwanda,25-35,male,Less than basic_employed,
+118,2023,Rwanda,25-35,male,Less than basic_employed,
+119,2024,Rwanda,25-35,male,Less than basic_employed,
+120,2015,Ghana,15-24,female,Basic_employed,217487.26783960804
+121,2016,Ghana,15-24,female,Basic_employed,
+122,2017,Ghana,15-24,female,Basic_employed,665232.0172926883
+123,2018,Ghana,15-24,female,Basic_employed,672433.8895683304
+124,2019,Ghana,15-24,female,Basic_employed,679595.1052382491
+125,2020,Ghana,15-24,female,Basic_employed,670405.7054336083
+126,2021,Ghana,15-24,female,Basic_employed,692321.6742670635
+127,2022,Ghana,15-24,female,Basic_employed,707373.6011314347
+128,2023,Ghana,15-24,female,Basic_employed,716558.5472841576
+129,2024,Ghana,15-24,female,Basic_employed,726814.1475305877
+130,2015,Ghana,15-24,male,Basic_employed,277054.0613773508
+131,2016,Ghana,15-24,male,Basic_employed,
+132,2017,Ghana,15-24,male,Basic_employed,702346.6508159282
+133,2018,Ghana,15-24,male,Basic_employed,706338.7372776237
+134,2019,Ghana,15-24,male,Basic_employed,710167.3446788612
+135,2020,Ghana,15-24,male,Basic_employed,703861.50426696
+136,2021,Ghana,15-24,male,Basic_employed,722069.7180588916
+137,2022,Ghana,15-24,male,Basic_employed,742442.5479883169
+138,2023,Ghana,15-24,male,Basic_employed,752716.891727793
+139,2024,Ghana,15-24,male,Basic_employed,764043.6312883798
+140,2015,Ghana,25-35,female,Basic_employed,493075.51235317386
+141,2016,Ghana,25-35,female,Basic_employed,
+142,2017,Ghana,25-35,female,Basic_employed,948343.1642549476
+143,2018,Ghana,25-35,female,Basic_employed,965731.7099152806
+144,2019,Ghana,25-35,female,Basic_employed,983815.3665808804
+145,2020,Ghana,25-35,female,Basic_employed,992125.1082854378
+146,2021,Ghana,25-35,female,Basic_employed,1012821.3013695716
+147,2022,Ghana,25-35,female,Basic_employed,1036845.2634862696
+148,2023,Ghana,25-35,female,Basic_employed,1052482.650391883
+149,2024,Ghana,25-35,female,Basic_employed,1068439.3836680066
+150,2015,Ghana,25-35,male,Basic_employed,612738.6843437157
+151,2016,Ghana,25-35,male,Basic_employed,
+152,2017,Ghana,25-35,male,Basic_employed,1038331.230242299
+153,2018,Ghana,25-35,male,Basic_employed,1063889.771479932
+154,2019,Ghana,25-35,male,Basic_employed,1089961.0125956342
+155,2020,Ghana,25-35,male,Basic_employed,1105841.9117823069
+156,2021,Ghana,25-35,male,Basic_employed,1134196.721482054
+157,2022,Ghana,25-35,male,Basic_employed,1163573.7251643725
+158,2023,Ghana,25-35,male,Basic_employed,1187156.004925694
+159,2024,Ghana,25-35,male,Basic_employed,1211867.8922995294
+160,2015,Kenya,15-24,female,Basic_employed,
+161,2016,Kenya,15-24,female,Basic_employed,947889.4377763816
+162,2017,Kenya,15-24,female,Basic_employed,
+163,2018,Kenya,15-24,female,Basic_employed,
+164,2019,Kenya,15-24,female,Basic_employed,1250591.9099576764
+165,2020,Kenya,15-24,female,Basic_employed,1248631.2946329475
+166,2021,Kenya,15-24,female,Basic_employed,1286173.6057347332
+167,2022,Kenya,15-24,female,Basic_employed,1327852.321824234
+168,2023,Kenya,15-24,female,Basic_employed,1357134.7147273729
+169,2024,Kenya,15-24,female,Basic_employed,1385451.5451034617
+170,2015,Kenya,15-24,male,Basic_employed,
+171,2016,Kenya,15-24,male,Basic_employed,1081987.5016268983
+172,2017,Kenya,15-24,male,Basic_employed,
+173,2018,Kenya,15-24,male,Basic_employed,
+174,2019,Kenya,15-24,male,Basic_employed,1136299.4603213046
+175,2020,Kenya,15-24,male,Basic_employed,1141122.5400823865
+176,2021,Kenya,15-24,male,Basic_employed,1172458.2379706467
+177,2022,Kenya,15-24,male,Basic_employed,1222576.7100380445
+178,2023,Kenya,15-24,male,Basic_employed,1254963.4015878253
+179,2024,Kenya,15-24,male,Basic_employed,1285282.1321778607
+180,2015,Kenya,25-35,female,Basic_employed,
+181,2016,Kenya,25-35,female,Basic_employed,1762713.992999815
+182,2017,Kenya,25-35,female,Basic_employed,
+183,2018,Kenya,25-35,female,Basic_employed,
+184,2019,Kenya,25-35,female,Basic_employed,2048076.8342661676
+185,2020,Kenya,25-35,female,Basic_employed,2059305.898762863
+186,2021,Kenya,25-35,female,Basic_employed,2130218.826566817
+187,2022,Kenya,25-35,female,Basic_employed,2201187.516102268
+188,2023,Kenya,25-35,female,Basic_employed,2253114.495146725
+189,2024,Kenya,25-35,female,Basic_employed,2302131.637073636
+190,2015,Kenya,25-35,male,Basic_employed,
+191,2016,Kenya,25-35,male,Basic_employed,1817544.0541366949
+192,2017,Kenya,25-35,male,Basic_employed,
+193,2018,Kenya,25-35,male,Basic_employed,
+194,2019,Kenya,25-35,male,Basic_employed,1980873.0199938065
+195,2020,Kenya,25-35,male,Basic_employed,1987597.2549149443
+196,2021,Kenya,25-35,male,Basic_employed,2052205.386657446
+197,2022,Kenya,25-35,male,Basic_employed,2112312.139841807
+198,2023,Kenya,25-35,male,Basic_employed,2161700.213318113
+199,2024,Kenya,25-35,male,Basic_employed,2210467.2749946844
+200,2015,Rwanda,15-24,female,Basic_employed,
+201,2016,Rwanda,15-24,female,Basic_employed,
+202,2017,Rwanda,15-24,female,Basic_employed,351464.78902234737
+203,2018,Rwanda,15-24,female,Basic_employed,313138.856730688
+204,2019,Rwanda,15-24,female,Basic_employed,320165.9576044812
+205,2020,Rwanda,15-24,female,Basic_employed,353362.3113734664
+206,2021,Rwanda,15-24,female,Basic_employed,362531.508404893
+207,2022,Rwanda,15-24,female,Basic_employed,
+208,2023,Rwanda,15-24,female,Basic_employed,
+209,2024,Rwanda,15-24,female,Basic_employed,
+210,2015,Rwanda,15-24,male,Basic_employed,
+211,2016,Rwanda,15-24,male,Basic_employed,
+212,2017,Rwanda,15-24,male,Basic_employed,388955.9088393084
+213,2018,Rwanda,15-24,male,Basic_employed,358288.5812836198
+214,2019,Rwanda,15-24,male,Basic_employed,377848.18133267295
+215,2020,Rwanda,15-24,male,Basic_employed,424039.8376277909
+216,2021,Rwanda,15-24,male,Basic_employed,418767.3303364324
+217,2022,Rwanda,15-24,male,Basic_employed,
+218,2023,Rwanda,15-24,male,Basic_employed,
+219,2024,Rwanda,15-24,male,Basic_employed,
+220,2015,Rwanda,25-35,female,Basic_employed,
+221,2016,Rwanda,25-35,female,Basic_employed,
+222,2017,Rwanda,25-35,female,Basic_employed,403412.7321075006
+223,2018,Rwanda,25-35,female,Basic_employed,352361.11519471335
+224,2019,Rwanda,25-35,female,Basic_employed,333113.6894772327
+225,2020,Rwanda,25-35,female,Basic_employed,364891.67182889255
+226,2021,Rwanda,25-35,female,Basic_employed,363447.418309662
+227,2022,Rwanda,25-35,female,Basic_employed,
+228,2023,Rwanda,25-35,female,Basic_employed,
+229,2024,Rwanda,25-35,female,Basic_employed,
+230,2015,Rwanda,25-35,male,Basic_employed,
+231,2016,Rwanda,25-35,male,Basic_employed,
+232,2017,Rwanda,25-35,male,Basic_employed,512128.74686345656
+233,2018,Rwanda,25-35,male,Basic_employed,476892.6721368877
+234,2019,Rwanda,25-35,male,Basic_employed,474312.47428686
+235,2020,Rwanda,25-35,male,Basic_employed,493082.1381577663
+236,2021,Rwanda,25-35,male,Basic_employed,497781.22499007935
+237,2022,Rwanda,25-35,male,Basic_employed,
+238,2023,Rwanda,25-35,male,Basic_employed,
+239,2024,Rwanda,25-35,male,Basic_employed,
+240,2015,Ghana,15-24,female,Intermediate_employed,254354.7188423776
+241,2016,Ghana,15-24,female,Intermediate_employed,
+242,2017,Ghana,15-24,female,Intermediate_employed,259910.4502106628
+243,2018,Ghana,15-24,female,Intermediate_employed,262724.26827242674
+244,2019,Ghana,15-24,female,Intermediate_employed,265522.20153546944
+245,2020,Ghana,15-24,female,Intermediate_employed,261931.8436177761
+246,2021,Ghana,15-24,female,Intermediate_employed,270494.5543385981
+247,2022,Ghana,15-24,female,Intermediate_employed,276375.4394826687
+248,2023,Ghana,15-24,female,Intermediate_employed,279964.0573297627
+249,2024,Ghana,15-24,female,Intermediate_employed,283970.98665357707
+250,2015,Ghana,15-24,male,Intermediate_employed,350437.71568900486
+251,2016,Ghana,15-24,male,Intermediate_employed,
+252,2017,Ghana,15-24,male,Intermediate_employed,406422.2504974496
+253,2018,Ghana,15-24,male,Intermediate_employed,408732.32453575794
+254,2019,Ghana,15-24,male,Intermediate_employed,410947.7992368538
+255,2020,Ghana,15-24,male,Intermediate_employed,407298.840637129
+256,2021,Ghana,15-24,male,Intermediate_employed,417835.2662301871
+257,2022,Ghana,15-24,male,Intermediate_employed,429624.2758016
+258,2023,Ghana,15-24,male,Intermediate_employed,435569.66174475406
+259,2024,Ghana,15-24,male,Intermediate_employed,442124.0305563149
+260,2015,Ghana,25-35,female,Intermediate_employed,169088.31757264465
+261,2016,Ghana,25-35,female,Intermediate_employed,
+262,2017,Ghana,25-35,female,Intermediate_employed,189259.50558220985
+263,2018,Ghana,25-35,female,Intermediate_employed,192729.7130751418
+264,2019,Ghana,25-35,female,Intermediate_employed,196338.64288942344
+265,2020,Ghana,25-35,female,Intermediate_employed,197997.0063023721
+266,2021,Ghana,25-35,female,Intermediate_employed,202127.3163190151
+267,2022,Ghana,25-35,female,Intermediate_employed,206921.74450040457
+268,2023,Ghana,25-35,female,Intermediate_employed,210042.47571448912
+269,2024,Ghana,25-35,female,Intermediate_employed,213226.9384326012
+270,2015,Ghana,25-35,male,Intermediate_employed,281866.71966448234
+271,2016,Ghana,25-35,male,Intermediate_employed,
+272,2017,Ghana,25-35,male,Intermediate_employed,407284.3720388765
+273,2018,Ghana,25-35,male,Intermediate_employed,417309.6839191422
+274,2019,Ghana,25-35,male,Intermediate_employed,427536.1018066261
+275,2020,Ghana,25-35,male,Intermediate_employed,433765.3684069837
+276,2021,Ghana,25-35,male,Intermediate_employed,444887.5137556781
+277,2022,Ghana,25-35,male,Intermediate_employed,456410.6136573778
+278,2023,Ghana,25-35,male,Intermediate_employed,465660.7389777861
+279,2024,Ghana,25-35,male,Intermediate_employed,475353.9517386113
+280,2015,Kenya,15-24,female,Intermediate_employed,
+281,2016,Kenya,15-24,female,Intermediate_employed,859619.7520257503
+282,2017,Kenya,15-24,female,Intermediate_employed,
+283,2018,Kenya,15-24,female,Intermediate_employed,
+284,2019,Kenya,15-24,female,Intermediate_employed,488224.82620286086
+285,2020,Kenya,15-24,female,Intermediate_employed,487459.4117870593
+286,2021,Kenya,15-24,female,Intermediate_employed,502115.7422550401
+287,2022,Kenya,15-24,female,Intermediate_employed,518386.9045399805
+288,2023,Kenya,15-24,female,Intermediate_employed,529818.604259214
+289,2024,Kenya,15-24,female,Intermediate_employed,540873.3531976184
+290,2015,Kenya,15-24,male,Intermediate_employed,
+291,2016,Kenya,15-24,male,Intermediate_employed,880957.7037119232
+292,2017,Kenya,15-24,male,Intermediate_employed,
+293,2018,Kenya,15-24,male,Intermediate_employed,
+294,2019,Kenya,15-24,male,Intermediate_employed,597953.1936924395
+295,2020,Kenya,15-24,male,Intermediate_employed,600491.2358611445
+296,2021,Kenya,15-24,male,Intermediate_employed,616980.9740711481
+297,2022,Kenya,15-24,male,Intermediate_employed,643354.7439110209
+298,2023,Kenya,15-24,male,Intermediate_employed,660397.544969685
+299,2024,Kenya,15-24,male,Intermediate_employed,676352.1259741379
+300,2015,Kenya,25-35,female,Intermediate_employed,
+301,2016,Kenya,25-35,female,Intermediate_employed,1101919.1146717118
+302,2017,Kenya,25-35,female,Intermediate_employed,
+303,2018,Kenya,25-35,female,Intermediate_employed,
+304,2019,Kenya,25-35,female,Intermediate_employed,608833.2372638551
+305,2020,Kenya,25-35,female,Intermediate_employed,612171.3091440623
+306,2021,Kenya,25-35,female,Intermediate_employed,633251.6449383046
+307,2022,Kenya,25-35,female,Intermediate_employed,654348.5570615861
+308,2023,Kenya,25-35,female,Intermediate_employed,669784.9265493044
+309,2024,Kenya,25-35,female,Intermediate_employed,684356.286715817
+310,2015,Kenya,25-35,male,Intermediate_employed,
+311,2016,Kenya,25-35,male,Intermediate_employed,1503470.4030508308
+312,2017,Kenya,25-35,male,Intermediate_employed,
+313,2018,Kenya,25-35,male,Intermediate_employed,
+314,2019,Kenya,25-35,male,Intermediate_employed,1061994.7368312257
+315,2020,Kenya,25-35,male,Intermediate_employed,1065599.764525271
+316,2021,Kenya,25-35,male,Intermediate_employed,1100237.7727037305
+317,2022,Kenya,25-35,male,Intermediate_employed,1132462.48114567
+318,2023,Kenya,25-35,male,Intermediate_employed,1158940.6418175914
+319,2024,Kenya,25-35,male,Intermediate_employed,1185085.8627926365
+320,2015,Rwanda,15-24,female,Intermediate_employed,
+321,2016,Rwanda,15-24,female,Intermediate_employed,
+322,2017,Rwanda,15-24,female,Intermediate_employed,36535.35008030955
+323,2018,Rwanda,15-24,female,Intermediate_employed,36108.1046441139
+324,2019,Rwanda,15-24,female,Intermediate_employed,43389.91081540922
+325,2020,Rwanda,15-24,female,Intermediate_employed,59018.50785542563
+326,2021,Rwanda,15-24,female,Intermediate_employed,47047.08730596352
+327,2022,Rwanda,15-24,female,Intermediate_employed,
+328,2023,Rwanda,15-24,female,Intermediate_employed,
+329,2024,Rwanda,15-24,female,Intermediate_employed,
+330,2015,Rwanda,15-24,male,Intermediate_employed,
+331,2016,Rwanda,15-24,male,Intermediate_employed,
+332,2017,Rwanda,15-24,male,Intermediate_employed,37515.30007623229
+333,2018,Rwanda,15-24,male,Intermediate_employed,41204.61470249315
+334,2019,Rwanda,15-24,male,Intermediate_employed,34540.99574133913
+335,2020,Rwanda,15-24,male,Intermediate_employed,68598.58844198017
+336,2021,Rwanda,15-24,male,Intermediate_employed,48151.78536541525
+337,2022,Rwanda,15-24,male,Intermediate_employed,
+338,2023,Rwanda,15-24,male,Intermediate_employed,
+339,2024,Rwanda,15-24,male,Intermediate_employed,
+340,2015,Rwanda,25-35,female,Intermediate_employed,
+341,2016,Rwanda,25-35,female,Intermediate_employed,
+342,2017,Rwanda,25-35,female,Intermediate_employed,44429.84051629727
+343,2018,Rwanda,25-35,female,Intermediate_employed,40597.076282153335
+344,2019,Rwanda,25-35,female,Intermediate_employed,38911.688506114704
+345,2020,Rwanda,25-35,female,Intermediate_employed,46224.48055600683
+346,2021,Rwanda,25-35,female,Intermediate_employed,47934.47102774112
+347,2022,Rwanda,25-35,female,Intermediate_employed,
+348,2023,Rwanda,25-35,female,Intermediate_employed,
+349,2024,Rwanda,25-35,female,Intermediate_employed,
+350,2015,Rwanda,25-35,male,Intermediate_employed,
+351,2016,Rwanda,25-35,male,Intermediate_employed,
+352,2017,Rwanda,25-35,male,Intermediate_employed,63937.21365964186
+353,2018,Rwanda,25-35,male,Intermediate_employed,55264.185916533
+354,2019,Rwanda,25-35,male,Intermediate_employed,61564.23627252348
+355,2020,Rwanda,25-35,male,Intermediate_employed,70305.01492942248
+356,2021,Rwanda,25-35,male,Intermediate_employed,71453.26482803698
+357,2022,Rwanda,25-35,male,Intermediate_employed,
+358,2023,Rwanda,25-35,male,Intermediate_employed,
+359,2024,Rwanda,25-35,male,Intermediate_employed,
+360,2015,Ghana,15-24,female,Advanced_employed,14927.860960101343
+361,2016,Ghana,15-24,female,Advanced_employed,
+362,2017,Ghana,15-24,female,Advanced_employed,19771.954013507744
+363,2018,Ghana,15-24,female,Advanced_employed,19986.00728175641
+364,2019,Ghana,15-24,female,Advanced_employed,20198.85215877042
+365,2020,Ghana,15-24,female,Advanced_employed,19925.72581243409
+366,2021,Ghana,15-24,female,Advanced_employed,20577.10986592575
+367,2022,Ghana,15-24,female,Advanced_employed,21024.48160697364
+368,2023,Ghana,15-24,female,Advanced_employed,21297.475582349725
+369,2024,Ghana,15-24,female,Advanced_employed,21602.291422811773
+370,2015,Ghana,15-24,male,Advanced_employed,31057.473316833588
+371,2016,Ghana,15-24,male,Advanced_employed,
+372,2017,Ghana,15-24,male,Advanced_employed,28484.49289736888
+373,2018,Ghana,15-24,male,Advanced_employed,28646.396650069557
+374,2019,Ghana,15-24,male,Advanced_employed,28801.67031756789
+375,2020,Ghana,15-24,male,Advanced_employed,28545.929557337768
+376,2021,Ghana,15-24,male,Advanced_employed,29284.385042001253
+377,2022,Ghana,15-24,male,Advanced_employed,30110.62907512914
+378,2023,Ghana,15-24,male,Advanced_employed,30527.31714637181
+379,2024,Ghana,15-24,male,Advanced_employed,30986.68636553028
+380,2015,Ghana,25-35,female,Advanced_employed,108418.67825280158
+381,2016,Ghana,25-35,female,Advanced_employed,
+382,2017,Ghana,25-35,female,Advanced_employed,100457.9798192492
+383,2018,Ghana,25-35,female,Advanced_employed,102299.94824889902
+384,2019,Ghana,25-35,female,Advanced_employed,104215.54977885605
+385,2020,Ghana,25-35,female,Advanced_employed,105095.80061623664
+386,2021,Ghana,25-35,female,Advanced_employed,107288.14809713468
+387,2022,Ghana,25-35,female,Advanced_employed,109833.00611105173
+388,2023,Ghana,25-35,female,Advanced_employed,111489.47431517912
+389,2024,Ghana,25-35,female,Advanced_employed,113179.7708764385
+390,2015,Ghana,25-35,male,Advanced_employed,244265.41445813084
+391,2016,Ghana,25-35,male,Advanced_employed,
+392,2017,Ghana,25-35,male,Advanced_employed,200833.1320640577
+393,2018,Ghana,25-35,male,Advanced_employed,205776.64309236832
+394,2019,Ghana,25-35,male,Advanced_employed,210819.3200894205
+395,2020,Ghana,25-35,male,Advanced_employed,213890.989929216
+396,2021,Ghana,25-35,male,Advanced_employed,219375.35279457227
+397,2022,Ghana,25-35,male,Advanced_employed,225057.42753944977
+398,2023,Ghana,25-35,male,Advanced_employed,229618.69177549888
+399,2024,Ghana,25-35,male,Advanced_employed,234398.4437428393
+400,2015,Kenya,15-24,female,Advanced_employed,
+401,2016,Kenya,15-24,female,Advanced_employed,67490.25870103424
+402,2017,Kenya,15-24,female,Advanced_employed,
+403,2018,Kenya,15-24,female,Advanced_employed,
+404,2019,Kenya,15-24,female,Advanced_employed,34861.53303714211
+405,2020,Kenya,15-24,female,Advanced_employed,34806.87887268452
+406,2021,Kenya,15-24,female,Advanced_employed,35853.40932625978
+407,2022,Kenya,15-24,female,Advanced_employed,37015.2463142737
+408,2023,Kenya,15-24,female,Advanced_employed,37831.52307048101
+409,2024,Kenya,15-24,female,Advanced_employed,38620.883780240096
+410,2015,Kenya,15-24,male,Advanced_employed,
+411,2016,Kenya,15-24,male,Advanced_employed,63406.64814040863
+412,2017,Kenya,15-24,male,Advanced_employed,
+413,2018,Kenya,15-24,male,Advanced_employed,
+414,2019,Kenya,15-24,male,Advanced_employed,32137.510967200367
+415,2020,Kenya,15-24,male,Advanced_employed,32273.9202361739
+416,2021,Kenya,15-24,male,Advanced_employed,33160.17546176741
+417,2022,Kenya,15-24,male,Advanced_employed,34577.65650613038
+418,2023,Kenya,15-24,male,Advanced_employed,35493.63657231655
+419,2024,Kenya,15-24,male,Advanced_employed,36351.12931157504
+420,2015,Kenya,25-35,female,Advanced_employed,
+421,2016,Kenya,25-35,female,Advanced_employed,106876.36891810912
+422,2017,Kenya,25-35,female,Advanced_employed,
+423,2018,Kenya,25-35,female,Advanced_employed,
+424,2019,Kenya,25-35,female,Advanced_employed,131395.28448607665
+425,2020,Kenya,25-35,female,Advanced_employed,132115.6901365729
+426,2021,Kenya,25-35,female,Advanced_employed,136665.14070729804
+427,2022,Kenya,25-35,female,Advanced_employed,141218.16869682452
+428,2023,Kenya,25-35,female,Advanced_employed,144549.56724100735
+429,2024,Kenya,25-35,female,Advanced_employed,147694.2838846525
+430,2015,Kenya,25-35,male,Advanced_employed,
+431,2016,Kenya,25-35,male,Advanced_employed,197018.4148635881
+432,2017,Kenya,25-35,male,Advanced_employed,
+433,2018,Kenya,25-35,male,Advanced_employed,
+434,2019,Kenya,25-35,male,Advanced_employed,216435.6125308692
+435,2020,Kenya,25-35,male,Advanced_employed,217170.3208585956
+436,2021,Kenya,25-35,male,Advanced_employed,224229.5823190839
+437,2022,Kenya,25-35,male,Advanced_employed,230797.01082731792
+438,2023,Kenya,25-35,male,Advanced_employed,236193.28702809996
+439,2024,Kenya,25-35,male,Advanced_employed,241521.70977845497
+440,2015,Rwanda,15-24,female,Advanced_employed,
+441,2016,Rwanda,15-24,female,Advanced_employed,
+442,2017,Rwanda,15-24,female,Advanced_employed,7629.193751719631
+443,2018,Rwanda,15-24,female,Advanced_employed,7206.648787363346
+444,2019,Rwanda,15-24,female,Advanced_employed,7240.980673374391
+445,2020,Rwanda,15-24,female,Advanced_employed,10295.77041483219
+446,2021,Rwanda,15-24,female,Advanced_employed,5734.700703637252
+447,2022,Rwanda,15-24,female,Advanced_employed,
+448,2023,Rwanda,15-24,female,Advanced_employed,
+449,2024,Rwanda,15-24,female,Advanced_employed,
+450,2015,Rwanda,15-24,male,Advanced_employed,
+451,2016,Rwanda,15-24,male,Advanced_employed,
+452,2017,Rwanda,15-24,male,Advanced_employed,6488.690161285677
+453,2018,Rwanda,15-24,male,Advanced_employed,7624.276893346703
+454,2019,Rwanda,15-24,male,Advanced_employed,7712.656629681037
+455,2020,Rwanda,15-24,male,Advanced_employed,12207.425590922288
+456,2021,Rwanda,15-24,male,Advanced_employed,6509.654258789478
+457,2022,Rwanda,15-24,male,Advanced_employed,
+458,2023,Rwanda,15-24,male,Advanced_employed,
+459,2024,Rwanda,15-24,male,Advanced_employed,
+460,2015,Rwanda,25-35,female,Advanced_employed,
+461,2016,Rwanda,25-35,female,Advanced_employed,
+462,2017,Rwanda,25-35,female,Advanced_employed,38344.70370401407
+463,2018,Rwanda,25-35,female,Advanced_employed,35709.10346730772
+464,2019,Rwanda,25-35,female,Advanced_employed,37247.64840612032
+465,2020,Rwanda,25-35,female,Advanced_employed,38752.37919500692
+466,2021,Rwanda,25-35,female,Advanced_employed,37642.63872531927
+467,2022,Rwanda,25-35,female,Advanced_employed,
+468,2023,Rwanda,25-35,female,Advanced_employed,
+469,2024,Rwanda,25-35,female,Advanced_employed,
+470,2015,Rwanda,25-35,male,Advanced_employed,
+471,2016,Rwanda,25-35,male,Advanced_employed,
+472,2017,Rwanda,25-35,male,Advanced_employed,68505.9257846109
+473,2018,Rwanda,25-35,male,Advanced_employed,63636.097882629205
+474,2019,Rwanda,25-35,male,Advanced_employed,67430.68462978139
+475,2020,Rwanda,25-35,male,Advanced_employed,71393.50736378554
+476,2021,Rwanda,25-35,male,Advanced_employed,66256.42367680019
+477,2022,Rwanda,25-35,male,Advanced_employed,
+478,2023,Rwanda,25-35,male,Advanced_employed,
+479,2024,Rwanda,25-35,male,Advanced_employed,
+480,2015,Ghana,15-24,female,Level not stated_employed,
+481,2016,Ghana,15-24,female,Level not stated_employed,
+482,2017,Ghana,15-24,female,Level not stated_employed,1203.2446859941383
+483,2018,Ghana,15-24,female,Level not stated_employed,1216.2711404034462
+484,2019,Ghana,15-24,female,Level not stated_employed,1229.224056793663
+485,2020,Ghana,15-24,female,Level not stated_employed,1212.6026432191798
+486,2021,Ghana,15-24,female,Level not stated_employed,1252.243358566267
+487,2022,Ghana,15-24,female,Level not stated_employed,1279.4686732575751
+488,2023,Ghana,15-24,female,Level not stated_employed,1296.0820312471435
+489,2024,Ghana,15-24,female,Level not stated_employed,1314.6319449275124
+490,2015,Ghana,15-24,male,Level not stated_employed,
+491,2016,Ghana,15-24,male,Level not stated_employed,
+492,2017,Ghana,15-24,male,Level not stated_employed,863.8823846623594
+493,2018,Ghana,15-24,male,Level not stated_employed,868.7926282981784
+494,2019,Ghana,15-24,male,Level not stated_employed,873.5017936197112
+495,2020,Ghana,15-24,male,Level not stated_employed,865.7456457887148
+496,2021,Ghana,15-24,male,Level not stated_employed,888.1416451613073
+497,2022,Ghana,15-24,male,Level not stated_employed,913.2001100679266
+498,2023,Ghana,15-24,male,Level not stated_employed,925.8374944139448
+499,2024,Ghana,15-24,male,Level not stated_employed,939.7693196325628
+500,2015,Ghana,25-35,female,Level not stated_employed,
+501,2016,Ghana,25-35,female,Level not stated_employed,
+502,2017,Ghana,25-35,female,Level not stated_employed,2598.014666042263
+503,2018,Ghana,25-35,female,Level not stated_employed,2645.6511106853604
+504,2019,Ghana,25-35,female,Level not stated_employed,2695.1918328666734
+505,2020,Ghana,25-35,female,Level not stated_employed,2717.9566205861315
+506,2021,Ghana,25-35,female,Level not stated_employed,2774.654464985173
+507,2022,Ghana,25-35,female,Level not stated_employed,2840.468832893503
+508,2023,Ghana,25-35,female,Level not stated_employed,2883.307925376738
+509,2024,Ghana,25-35,female,Level not stated_employed,2927.021876861866
+510,2015,Ghana,25-35,male,Level not stated_employed,
+511,2016,Ghana,25-35,male,Level not stated_employed,
+512,2017,Ghana,25-35,male,Level not stated_employed,8562.200287579572
+513,2018,Ghana,25-35,male,Level not stated_employed,8772.958996131472
+514,2019,Ghana,25-35,male,Level not stated_employed,8987.945487606194
+515,2020,Ghana,25-35,male,Level not stated_employed,9118.901232384687
+516,2021,Ghana,25-35,male,Level not stated_employed,9352.718296433495
+517,2022,Ghana,25-35,male,Level not stated_employed,9594.964491145634
+518,2023,Ghana,25-35,male,Level not stated_employed,9789.426717334336
+519,2024,Ghana,25-35,male,Level not stated_employed,9993.2038194923
+520,2015,Kenya,15-24,female,Level not stated_employed,
+521,2016,Kenya,15-24,female,Level not stated_employed,5269.558279462196
+522,2017,Kenya,15-24,female,Level not stated_employed,
+523,2018,Kenya,15-24,female,Level not stated_employed,
+524,2019,Kenya,15-24,female,Level not stated_employed,10959.211132282951
+525,2020,Kenya,15-24,female,Level not stated_employed,10942.029830275633
+526,2021,Kenya,15-24,female,Level not stated_employed,11271.021334604364
+527,2022,Kenya,15-24,female,Level not stated_employed,11636.261062856544
+528,2023,Kenya,15-24,female,Level not stated_employed,11892.869092805198
+529,2024,Kenya,15-24,female,Level not stated_employed,12141.01568660421
+530,2015,Kenya,15-24,male,Level not stated_employed,
+531,2016,Kenya,15-24,male,Level not stated_employed,4935.167878764667
+532,2017,Kenya,15-24,male,Level not stated_employed,
+533,2018,Kenya,15-24,male,Level not stated_employed,
+534,2019,Kenya,15-24,male,Level not stated_employed,2795.3782301962347
+535,2020,Kenya,15-24,male,Level not stated_employed,2807.2433525846727
+536,2021,Kenya,15-24,male,Level not stated_employed,2884.3314185070835
+537,2022,Kenya,15-24,male,Level not stated_employed,3007.626457042336
+538,2023,Kenya,15-24,male,Level not stated_employed,3087.300042807077
+539,2024,Kenya,15-24,male,Level not stated_employed,3161.886296183105
+540,2015,Kenya,25-35,female,Level not stated_employed,
+541,2016,Kenya,25-35,female,Level not stated_employed,27324.42698051673
+542,2017,Kenya,25-35,female,Level not stated_employed,
+543,2018,Kenya,25-35,female,Level not stated_employed,
+544,2019,Kenya,25-35,female,Level not stated_employed,10803.970174082177
+545,2020,Kenya,25-35,female,Level not stated_employed,10863.205489806358
+546,2021,Kenya,25-35,female,Level not stated_employed,11237.283817402536
+547,2022,Kenya,25-35,female,Level not stated_employed,11611.656298066542
+548,2023,Kenya,25-35,female,Level not stated_employed,11885.58036353136
+549,2024,Kenya,25-35,female,Level not stated_employed,12144.15451980165
+550,2015,Kenya,25-35,male,Level not stated_employed,
+551,2016,Kenya,25-35,male,Level not stated_employed,26591.51145681396
+552,2017,Kenya,25-35,male,Level not stated_employed,
+553,2018,Kenya,25-35,male,Level not stated_employed,
+554,2019,Kenya,25-35,male,Level not stated_employed,24944.43609680088
+555,2020,Kenya,25-35,male,Level not stated_employed,25029.1120182745
+556,2021,Kenya,25-35,male,Level not stated_employed,25842.69946043652
+557,2022,Kenya,25-35,male,Level not stated_employed,26599.60262821159
+558,2023,Kenya,25-35,male,Level not stated_employed,27221.529238518822
+559,2024,Kenya,25-35,male,Level not stated_employed,27835.63566600896
+560,2015,Rwanda,15-24,female,Level not stated_employed,
+561,2016,Rwanda,15-24,female,Level not stated_employed,
+562,2017,Rwanda,15-24,female,Level not stated_employed,
+563,2018,Rwanda,15-24,female,Level not stated_employed,
+564,2019,Rwanda,15-24,female,Level not stated_employed,
+565,2020,Rwanda,15-24,female,Level not stated_employed,
+566,2021,Rwanda,15-24,female,Level not stated_employed,
+567,2022,Rwanda,15-24,female,Level not stated_employed,
+568,2023,Rwanda,15-24,female,Level not stated_employed,
+569,2024,Rwanda,15-24,female,Level not stated_employed,
+570,2015,Rwanda,15-24,male,Level not stated_employed,
+571,2016,Rwanda,15-24,male,Level not stated_employed,
+572,2017,Rwanda,15-24,male,Level not stated_employed,
+573,2018,Rwanda,15-24,male,Level not stated_employed,
+574,2019,Rwanda,15-24,male,Level not stated_employed,
+575,2020,Rwanda,15-24,male,Level not stated_employed,
+576,2021,Rwanda,15-24,male,Level not stated_employed,
+577,2022,Rwanda,15-24,male,Level not stated_employed,
+578,2023,Rwanda,15-24,male,Level not stated_employed,
+579,2024,Rwanda,15-24,male,Level not stated_employed,
+580,2015,Rwanda,25-35,female,Level not stated_employed,
+581,2016,Rwanda,25-35,female,Level not stated_employed,
+582,2017,Rwanda,25-35,female,Level not stated_employed,25.76782257408374
+583,2018,Rwanda,25-35,female,Level not stated_employed,
+584,2019,Rwanda,25-35,female,Level not stated_employed,
+585,2020,Rwanda,25-35,female,Level not stated_employed,
+586,2021,Rwanda,25-35,female,Level not stated_employed,
+587,2022,Rwanda,25-35,female,Level not stated_employed,
+588,2023,Rwanda,25-35,female,Level not stated_employed,
+589,2024,Rwanda,25-35,female,Level not stated_employed,
+590,2015,Rwanda,25-35,male,Level not stated_employed,
+591,2016,Rwanda,25-35,male,Level not stated_employed,
+592,2017,Rwanda,25-35,male,Level not stated_employed,304.8396955461716
+593,2018,Rwanda,25-35,male,Level not stated_employed,
+594,2019,Rwanda,25-35,male,Level not stated_employed,
+595,2020,Rwanda,25-35,male,Level not stated_employed,
+596,2021,Rwanda,25-35,male,Level not stated_employed,
+597,2022,Rwanda,25-35,male,Level not stated_employed,
+598,2023,Rwanda,25-35,male,Level not stated_employed,
+599,2024,Rwanda,25-35,male,Level not stated_employed,
